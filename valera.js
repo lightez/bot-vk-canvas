@@ -12,7 +12,7 @@ const { createCanvas, loadImage } = require('canvas');
 // });
 
 vk.setOptions({
-    token: 'vk1.a.OMKi_0DmII-lktK6-Amz78byw3TGLcq8JZAcCMUikbBj4-Q--Tjs7lJrvSbUGGacm9oTrmTY_fUCwkKnNXiWGoRuD0OycCUtK1dFgl3ZGAASDewM6WKwXbYtw9XUZYTPVXWz00rrcmzEExj5RZVlTn_M__68lFNKc5vdt2AVH8BATcKeUhVU_NQDjqUCmVVs',
+    token: '',
 });
 const { updates, snippets } = vk;
 console.log(`start`)
